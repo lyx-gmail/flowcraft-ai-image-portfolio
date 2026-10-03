@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T21:05:37.230Z",
+  "mode": "hero",
+  "source": "日化产品/Vaseline_CocoaRadiantLotion20p3oz_美国/商品原图/官网20p3oz干净主体.jpg",
+  "output": "日化产品/Vaseline_CocoaRadiantLotion20p3oz_美国/商品主图/01-商品主图-1K.png",
+  "resolution": "1k",
+  "ratio": "1:1",
+  "count": 1,
+  "operationId": "6bba10c9-31ff-4630-b5bc-0ab3d372d3f8",
+  "intentRequestId": "5c368889-6318-4253-a741-8e6f32934d6f",
+  "elapsedMs": 36084,
+  "requestId": "466d9d02-4cdb-4299-b7d2-899e2b3a2ea4",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 31301,
+    "totalMs": 32163
+  },
+  "width": 1024,
+  "height": 1024,
+  "sha256": "9bdb9069fc172e5222328ebbda9658d9a7247a24b38682dc03080bcde9c13fb0"
+}

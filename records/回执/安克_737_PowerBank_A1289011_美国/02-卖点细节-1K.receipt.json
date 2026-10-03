@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:53:17.214Z",
+  "mode": "detail",
+  "source": "3C产品/安克_737_PowerBank_A1289011_美国/商品原图/官网商品主体.png",
+  "output": "3C产品/安克_737_PowerBank_A1289011_美国/详情图组/02-卖点细节-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "f57885af-b541-4aab-8447-6f4d0c446a68",
+  "intentRequestId": "6a21807f-cd41-4a53-9ddb-78c048b7ce1d",
+  "elapsedMs": 32970,
+  "requestId": "7bfa39aa-ee29-4b9c-94d8-7c1d619580ab",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 29068,
+    "totalMs": 29401
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "75a9a33a155ddfd0310700ae98f8a6051a56af20f56823dabc127abf7572f890"
+}

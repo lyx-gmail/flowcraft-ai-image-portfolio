@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:50:43.528Z",
+  "mode": "ad",
+  "source": "3C产品/大疆_Osmo_Mobile_7P_大陆/商品原图/官方商城单品图.png",
+  "output": "3C产品/大疆_Osmo_Mobile_7P_大陆/营销广告/01-营销广告-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "6421b3e5-7f06-4949-8a0b-71fd4e214231",
+  "intentRequestId": "59ee47e5-b742-4acc-a48b-98210ca0b221",
+  "elapsedMs": 30453,
+  "requestId": "d9ab7ea6-e4ce-4eb0-9360-446f58971c82",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 27307,
+    "totalMs": 28165
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "ff428653d9014db423f1e5a5b9742e41d6e3818d26545f77de748ed6de5babc7"
+}

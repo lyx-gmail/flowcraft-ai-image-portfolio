@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:54:17.198Z",
+  "mode": "detail",
+  "source": "3C产品/小米_Xiaomi15_黑色_新加坡/商品原图/官网商品完整主体.png",
+  "output": "3C产品/小米_Xiaomi15_黑色_新加坡/详情图组/02-卖点细节-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "eaa10300-d693-4772-af29-1aff7799190d",
+  "intentRequestId": "143c1c82-58bf-4cad-bd88-377a553cff72",
+  "elapsedMs": 33144,
+  "requestId": "1a71b903-4a44-4c8e-ada6-51a0e8ce66aa",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 29910,
+    "totalMs": 30292
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "e413d33469a653f1b565e725e993d9e82257f9c7fe5094e87d58488381167de6"
+}

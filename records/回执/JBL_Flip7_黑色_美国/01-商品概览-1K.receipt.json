@@ -1,0 +1,21 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:15:00.712Z",
+  "mode": "detail",
+  "source": "3C产品/JBL_Flip7_黑色_美国/商品原图/官网黑色完整主体.png",
+  "output": "3C产品/JBL_Flip7_黑色_美国/详情图组/01-商品概览-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "dfbfea1a-30d0-471d-8664-85a1581f597b",
+  "intentRequestId": "c2200620-5f04-4c14-981b-17e086255aae",
+  "elapsedMs": 29903,
+  "requestId": "20b61587-3aab-40c7-87a2-02bdc4b71123",
+  "timings": {
+    "providerMs": 25913,
+    "totalMs": 26770
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "b76d9fa844db296dcdcacc082c65cbdadd3bae2eec9c24f50ebe6f843de4e4b8"
+}

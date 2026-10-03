@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:57:51.303Z",
+  "mode": "hero",
+  "source": "日化产品/Aveeno_DailyMoisturizingLotion_18oz_美国/商品原图/官网18oz主体.jpg",
+  "output": "日化产品/Aveeno_DailyMoisturizingLotion_18oz_美国/商品主图/01-商品主图-1K.png",
+  "resolution": "1k",
+  "ratio": "1:1",
+  "count": 1,
+  "operationId": "0dc7eeb9-f5b7-487e-99a9-51db5f264528",
+  "intentRequestId": "087912a3-47ef-4c07-95dc-14d1833f4faf",
+  "elapsedMs": 32824,
+  "requestId": "510550f8-9922-429b-a4d5-fc8c7ca61f6e",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 29868,
+    "totalMs": 30722
+  },
+  "width": 1024,
+  "height": 1024,
+  "sha256": "60906c5bc9f2118ea0721aad911397496464317b6548bb93ca378a719f254d82"
+}

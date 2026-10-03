@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T21:03:55.079Z",
+  "mode": "ad",
+  "source": "日化产品/Olay_Regenerist面霜1.7oz_美国/商品原图/官方新罐主体图.jpg",
+  "output": "日化产品/Olay_Regenerist面霜1.7oz_美国/营销广告/01-营销广告-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "0cdc0351-383f-49c7-93ac-3cd74c035be8",
+  "intentRequestId": "6a735c6b-c4e2-471b-a781-08152e9d837f",
+  "elapsedMs": 37479,
+  "requestId": "b4f4f5a5-29a5-4c40-9f57-52aed3ffea56",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 34396,
+    "totalMs": 34738
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "0d8a457a1d2044d19455550933f6e2ffdd30f70eab6364ccb7900fe45fb11d64"
+}

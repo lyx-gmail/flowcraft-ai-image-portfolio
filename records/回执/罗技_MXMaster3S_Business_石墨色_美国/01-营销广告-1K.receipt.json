@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T20:59:34.691Z",
+  "mode": "ad",
+  "source": "3C产品/罗技_MXMaster3S_Business_石墨色_美国/商品原图/官网商品主体_图1.png",
+  "output": "3C产品/罗技_MXMaster3S_Business_石墨色_美国/营销广告/01-营销广告-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "75f90f18-34d1-4e01-b100-27bb2185a638",
+  "intentRequestId": "4f934a73-1c96-478e-9576-3cb53e4acd83",
+  "elapsedMs": 31313,
+  "requestId": "0e4e86d9-707b-45a0-a141-e2d42093cb30",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 27083,
+    "totalMs": 27875
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "7f1f9bcc21ea0dfb0eea8a2c37aae34194268519fe262a713073afb0be157b9d"
+}

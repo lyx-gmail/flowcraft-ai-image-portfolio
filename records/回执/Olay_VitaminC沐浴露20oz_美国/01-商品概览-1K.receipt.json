@@ -1,0 +1,23 @@
+{
+  "state": "accepted-visual-reviewed",
+  "startedAt": "2026-10-03T21:02:54.698Z",
+  "mode": "detail",
+  "source": "日化产品/Olay_VitaminC沐浴露20oz_美国/商品原图/官网20oz干净主体.jpg",
+  "output": "日化产品/Olay_VitaminC沐浴露20oz_美国/详情图组/01-商品概览-1K.png",
+  "resolution": "1k",
+  "ratio": "3:4",
+  "count": 1,
+  "operationId": "d7ab3a91-2ed1-47a1-9e6f-1f97522f6b71",
+  "intentRequestId": "0956fc23-11f6-4a12-b281-2d81c42f99e6",
+  "elapsedMs": 32877,
+  "requestId": "2f7a651e-acbd-401b-aa14-ba36bd5fd890",
+  "provider": "gpt-image",
+  "model": "openai/gpt-image-2",
+  "timings": {
+    "providerMs": 29778,
+    "totalMs": 30579
+  },
+  "width": 1152,
+  "height": 1536,
+  "sha256": "519aa2d04110fae91882869497772a8458c4b91e1031a5ff998525e9ecb5c850"
+}
