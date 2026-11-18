@@ -6,9 +6,9 @@
 
 **约 77 秒 · 1080p 展示版 · 含音轨 · 基于 LibTV 制作**
 
-[![口红电商广告：点击封面观看完整视频](videos/lipstick/cover.jpg)](https://www.liblib.tv/detail/ee95855d86f14adfbbb281475f5f74b7)
+[![口红电商广告：点击封面观看完整视频](videos/lipstick/cover.jpg)](videos/lipstick/lipstick-ad-1080p.mp4)
 
-[观看完整视频](https://www.liblib.tv/detail/ee95855d86f14adfbbb281475f5f74b7) · [GitHub 视频文件](videos/lipstick/lipstick-ad-1080p.mp4) · [查看制作画布与资产组织](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
+[观看完整视频](videos/lipstick/lipstick-ad-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
 
 从口红产品特写、人物上妆到试色与多场景展示；制作画布保留人物、商品、场景参考及镜头生成关系。视频使用外部 LibTV 工具制作，与下方 FlowCraft 生图工作台分开展示。
 
@@ -49,7 +49,7 @@
 
 ## 视频
 
-- [口红电商广告：完整成片（约77秒，1080p）](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/lipstick/lipstick-ad-1080p.mp4) · [LibTV作品页](https://www.liblib.tv/detail/ee95855d86f14adfbbb281475f5f74b7) · [制作画布](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
+- [口红电商广告：完整成片（约77秒，1080p）](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/lipstick/lipstick-ad-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
 - [短剧项目：视频片段](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/short-drama/short-drama-01.mp4)
 
 ## 说明与边界
