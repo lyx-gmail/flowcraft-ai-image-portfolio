@@ -50,7 +50,6 @@
 ## 视频
 
 - [口红电商广告：完整成片（约77秒，1080p）](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/lipstick/lipstick-ad-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
-- [短剧项目：视频片段](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/short-drama/short-drama-01.mp4)
 
 ## 说明与边界
 
