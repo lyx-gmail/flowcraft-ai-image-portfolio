@@ -37,6 +37,10 @@
 ![粗黑体描边与红金营销标签](gallery/风格复刻/05-JBL-零售营销排版/复刻结果.jpg)
 ![衬线斜体与粗体混排](gallery/风格复刻/06-CeraVe-零售字体混排/复刻结果.jpg)
 
+## 视频
+
+- [短剧项目：视频片段](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/short-drama/short-drama-01.mp4)
+
 ## 说明与边界
 
 - 这是个人练习作品，不是任何品牌的委托或合作项目；画面中的品牌与商标归各权利人所有，仅用于展示我的产品设计与验收能力，不作商业使用。
