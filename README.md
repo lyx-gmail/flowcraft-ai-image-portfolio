@@ -1,6 +1,16 @@
-# FlowCraft · AI 电商图工作流作品集
+# FlowCraft · AI 电商图与视频作品集
 
 我做了一个把商品素材变成主图、详情图与营销广告的 AI 工作流，完成 10 款商品的 50 张成品验证，并用真实零售参考补充营销字体、配色与版式复刻，以及摄影构图对照。
+
+## 先看成片：口红电商广告
+
+**约 77 秒 · 1080p 展示版 · 含音轨 · 基于 LibTV 制作**
+
+[![口红电商广告：点击封面观看完整视频](videos/lipstick/cover.jpg)](https://www.liblib.tv/detail/ee95855d86f14adfbbb281475f5f74b7)
+
+[观看完整视频](https://www.liblib.tv/detail/ee95855d86f14adfbbb281475f5f74b7) · [GitHub 视频文件](videos/lipstick/lipstick-ad-1080p.mp4) · [查看制作画布与资产组织](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
+
+从口红产品特写、人物上妆到试色与多场景展示；制作画布保留人物、商品、场景参考及镜头生成关系。视频使用外部 LibTV 工具制作，与下方 FlowCraft 生图工作台分开展示。
 
 ## 60 秒版本
 
