@@ -12,6 +12,16 @@
 
 从口红产品特写、人物上妆到试色与多场景展示；制作画布保留人物、商品、场景参考及镜头生成关系。视频使用外部 LibTV 工具制作，与下方 FlowCraft 生图工作台分开展示。
 
+## 数字人口播：梦百合产品展示
+
+**约 65 秒 · 1080p 原画质 · 60 帧 · 含音轨 · 基于 LibTV 制作**
+
+[![梦百合数字人口播：点击封面观看完整视频](videos/talking-head/cover.jpg)](videos/talking-head/talking-head-1080p.mp4)
+
+[观看完整视频](videos/talking-head/talking-head-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16485157&projectId=33a18ace162c4689ab85829e33caaa8b)
+
+数字人口播结合卧室场景与产品细节镜头，展示家居产品的讲解方式；成片与制作画布分别提供观看入口。与口红广告一样，使用外部 LibTV 工具制作，不是下方 FlowCraft 生图工作台的内置功能。
+
 ## 60 秒版本
 
 - 我的角色：产品经理。用户、流程、验收标准、文字与合规边界由我定义并逐张验收；实现与自动化在 AI 工具辅助下完成，我可以解释其中每个决策与取舍。
@@ -49,6 +59,7 @@
 
 ## 视频
 
+- [梦百合数字人口播：完整成片（约65秒，1080p，60帧）](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/talking-head/talking-head-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16485157&projectId=33a18ace162c4689ab85829e33caaa8b)
 - [口红电商广告：完整成片（约77秒，1080p）](https://github.com/lyx-gmail/flowcraft-ai-image-portfolio/raw/refs/heads/main/videos/lipstick/lipstick-ad-1080p.mp4) · [画布工作流](https://www.liblib.tv/canvas/share?spaceId=16406199&projectId=11dc686d9a554d5582d7f89d77e9b990)
 
 ## 说明与边界
